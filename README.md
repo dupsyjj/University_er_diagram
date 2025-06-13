@@ -25,3 +25,14 @@ Relationship
 - Each faculty has many department.
 - Each department offers many courses.
 - Each course can br taught by multiple professors, and each professor can teach multiple courses.
+
+
+Tools used 
+- draw.io for ER Diagram
+
+
+
+File Descriptions
+- 'diagram.png' :ER Diagram
+- ' problem_statement.txt: The scenerio provided
+- ' entities_attributes.md': Breakdown of all entities and attributes
